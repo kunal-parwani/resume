@@ -50,8 +50,7 @@ leading teams, and achieving outstanding results.
 #### Engineering Manager (Quality Assurance & SRE) || Jun 2021 - Till date
 
 * * *
-Currently leading multiple scrum teams from a quality perspective in a mature tech ops environment, delivering
-business critical projects in NAB’s Digital Space.
+Currently leading quality engineering team in NAB's digital space to deliver high-quality, critical projects and develop quality assurance strategies, promote continuous improvement, and collaborate cross-functionally to deliver innovative solutions.
 
 #### Responsibilities ||
 
