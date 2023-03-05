@@ -54,28 +54,13 @@ Currently leading quality engineering team in NAB's digital space to deliver hig
 
 #### Responsibilities ||
 
-* Led a team of 24 high-performing, multi-disciplinary engineers (Quality, Performance, and SRE Engineers)
-spanning across various geographical locations, managing resourcing and their work pipelines to ensure
-the delivery of high-quality Internet Banking features on time.
-* Devised and implemented a test automation strategy for web & mobile testing using Webdriver IO (wdio
-\+ Appium) & Cypress that spanned across the entire digital domain resulting in reduced onboarding
-time by roughly 50% by various teams.
-* Formulated, built, and integrated comprehensive quality assurance frameworks, governance guidelines,
-and robust control measures across the entire platform resulting in a 50% improvement in time to
-market and customer satisfaction, as evidenced by a 4-point improvement in Net Promoter Score.
+* Led a team of 24 high-performing, multi-disciplinary engineers (Quality, Performance, and SRE Engineers) spanning across various geographical locations, managing resourcing and their work pipelines to ensure the delivery of high-quality Internet Banking features on time.
+* Devised and implemented a test automation strategy for web & mobile testing using Webdriver IO (wdio + Appium) & Cypress that spanned across the entire digital domain resulting in reduced onboarding time by roughly 50% by various teams.
+* Formulated, built, and integrated comprehensive quality assurance frameworks, governance guidelines, and robust control measures across the entire platform resulting in a 50% improvement in time to market and customer satisfaction, as evidenced by a 4-point improvement in Net Promoter Score.
 * Guided automation teams on strategy, approaches, and tools for efficient and effective test automation.
-* Cultivated a collaborative environment that empowered people and technology to achieve greater
-success together.
-* Coached team members to take ownership of their personal development and leverage their
-strengths.
-* Collaborated with cross-functional teams to identify and resolve issues and ensure seamless product
-delivery.
-* Fostered innovation by encouraging new thinking and leveraging the latest technology to enhance test
-automation efficiency and quality.
-* Established and maintained a culture of reliability and resiliency by implementing SRE practices,
-resulting in a 15% decrease in release-caused incidents.
-* Planned and oversaw the execution of all test disciplines in scope across large, complex end-to-end
-solutions.
+* Cultivated a collaborative environment that empowered people, fostered innovation by encouraging new thinking
+* Established and maintained a culture of reliability and resiliency by implementing SRE practices, resulting in a 15% decrease in release-caused incidents.
+* Planned and oversaw the execution of all test disciplines in scope across large, complex end-to-end solutions.
 * Managed the hiring process, including sourcing, interviewing, and onboarding new team members.
 
 #### Key Achievements ||
@@ -93,15 +78,12 @@ business critical projects in NAB’s Digital Space.
 #### Responsibilities ||
 
 * Drove forward Internet Banking Automation Strategy & delivery roadmap, resulting in improved testing efficiency and faster release cycles.
-* Successfully developed and established a centralized functional test automation framework using Cypress for react apps supporting over 10+ product initiatives, resulting in a 40% reduction in manual testing efforts.
-* Developed a functional test automation strategy that delivered substantial ROI and a measurable increase in overall QA efficiency by significantly reducing the time to push changes into production, resulting in improved product quality and faster time-to-market.
+* Developed functional test automation framework using Cypress for react apps supporting over 10+ product initiatives, resulting in a 40% reduction in testing efforts thereby reducing time-to-market.
 * Developed automated solutions for functional & performance testing of microservices using newman & k6, resulting in improved application performance and faster load times.
 * Led tool/language choices and architecture of automation packages, resulting in improved testing efficiency and better test coverage.
 * Developed QA Guild across teams, resulting in improved collaboration and knowledge sharing among team members.
-* Conducted & planned Game Days to ensure the reliability and functionality of applications, resulting in improved product quality and higher customer satisfaction.
-* Accountable for DR planning & DR testing for cloud migration, resulting in improved disaster recovery capabilities and reduced downtime.
-* Conducted QA assessments and researched Vendor tools and resources to ensure the selection of the best tools for testing, resulting in improved testing efficiency and better test coverage.
-* Spearheaded productivity by hiring and mentoring qualified engineers to succeed in platform expectations, resulting in improved team morale and better performance
+* Conducted & planned Game Days to ensure the reliability, also accountable for DR planning & DR testing for cloud migration, resulting in improved disaster recovery capabilities and reduced downtime.
+* Spearheaded productivity by hiring and mentoring qualified engineers to succeed in platform expectations, resulting in improved team morale and better performance.
 
 #### Key Achievements ||
 
